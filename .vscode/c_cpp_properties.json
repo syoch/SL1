@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "DEBUG",
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "includePath": [
+                "C:\\bin\\tools\\tcc\\include\\",
+                "C:\\bin\\tools\\tcc\\include\\winapi\\"
+            ],
+            "compilerPath": "C:\\bin\\tools\\tcc\\tcc.exe",
+            "intelliSenseMode": "gcc-x86",
+            "cStandard": "c11",
+            "cppStandard": "c++14"
+        }
+    ],
+    "version": 4
+}
